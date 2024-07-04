@@ -1,7 +1,7 @@
 :root {
   /* design system# */
 
-  /* color */
+  /* colors */
 
   --clr-lightBlue: hsl(234, 25%, 52%);
   --clr-darkBlue: hsl(233, 54%, 16%);
@@ -12,6 +12,19 @@
   --clr-white: #ffffff;
   --clr-gradient-orangePink: linear-gradient(to bottom, #ff6f48, #f02aa6);
   --clr-gradient-bluePink: linear-gradient(to bottom, #4851ff, #f02aa6);
+
+  /* typography */
+
+  --ff-plusJakarta: "Plus Jakarta Sans", sans-serif;
+
+  /* font sizes */
+  --fs-heading-xl: 56px;
+  --fs-heading-lg: 40px;
+  --fs-heading-md: 32px;
+  --fs-heading-sm: 24px;
+
+  --fs-body-md: 18px;
+  --fs-body-sm: 16px;
 }
 
 /* css reset */
