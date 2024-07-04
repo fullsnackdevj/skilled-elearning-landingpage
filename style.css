@@ -1,3 +1,19 @@
+:root {
+  /* design system# */
+
+  /* color */
+
+  --clr-lightBlue: hsl(234, 25%, 52%);
+  --clr-darkBlue: hsl(233, 54%, 16%);
+  --clr-gray: hsl(232, 10%, 56%);
+  --clr-darkPink: hsl(341, 92%, 62%);
+
+  --clr-lightPink: #ffa7c3;
+  --clr-white: #ffffff;
+  --clr-gradient-orangePink: linear-gradient(to bottom, #ff6f48, #f02aa6);
+  --clr-gradient-bluePink: linear-gradient(to bottom, #4851ff, #f02aa6);
+}
+
 /* css reset */
 
 /*
